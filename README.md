@@ -70,8 +70,16 @@ Some unix commands and their usages.
 
 - Fetch changes
 
-```$git fetch```
+```$git fetch --all```
 
 - Pull changes
 
 ```$git pull```
+
+- Local branch list
+
+```$git branch```
+
+- Remote branch list
+
+```$git branch -r```
